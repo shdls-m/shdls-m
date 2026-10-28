@@ -1,15 +1,17 @@
-<a href="https://markshep.ru"><img src="assets/banner.jpg" alt="SHDLS" width="100%"></a>
+<a href="https://markshep.ru"><img src="assets/header.svg" alt="SHDLS" width="100%"></a>
 
-### Привет, я Марк
+<img src="assets/01-about.jpg" alt="Марк, 18. Разработчик и музыкант из Воронежа. ФКН ВГУ, первый курс." width="100%">
 
-18 лет, первый курс ФКН ВГУ, Воронеж. Программирование изучаю сам, ещё пишу музыку, стримлю и занимаюсь дизайном.
+<img src="assets/02-stack.jpg" alt="Стек по очереди: Java - основной, Rust - параллельно, Web - HTML CSS JS, Dart - дальше" width="100%">
 
-**Пишу на:** Java - основной · Rust - параллельно · HTML / CSS / JS  
-**Дальше в планах:** Dart / Flutter
+<img src="assets/03-head.jpg" alt="Где найти" width="100%">
+<p>
+<a href="https://markshep.ru"><img src="assets/btn-site.jpg" alt="markshep.ru" width="32%"></a>
+<a href="https://t.me/shdls_m"><img src="assets/btn-telegram.jpg" alt="Telegram" width="32%"></a>
+<a href="https://www.twitch.tv/shdls_m"><img src="assets/btn-twitch.jpg" alt="Twitch" width="32%"></a>
+<a href="https://www.youtube.com/@markshep"><img src="assets/btn-youtube.jpg" alt="YouTube" width="32%"></a>
+<a href="https://vk.ru/shdls_m"><img src="assets/btn-vk.jpg" alt="ВКонтакте" width="32%"></a>
+<a href="https://boosty.to/markshep"><img src="assets/btn-boosty.jpg" alt="Boosty" width="32%"></a>
+</p>
 
-<a href="https://markshep.ru"><img src="https://img.shields.io/badge/markshep.ru-000000?style=for-the-badge" alt="markshep.ru"></a>
-<a href="https://t.me/shdls_m"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://www.twitch.tv/shdls_m"><img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"></a>
-<a href="https://www.youtube.com/@markshep"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-<a href="https://vk.ru/shdls_m"><img src="https://img.shields.io/badge/ВКонтакте-000000?style=for-the-badge&logo=vk&logoColor=white" alt="ВКонтакте"></a>
-<a href="https://boosty.to/markshep"><img src="https://img.shields.io/badge/Boosty-000000?style=for-the-badge&logo=boosty&logoColor=white" alt="Boosty"></a>
+<a href="https://markshep.ru"><img src="assets/footer.svg" alt="- Марк" width="100%"></a>
