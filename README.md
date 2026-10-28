@@ -4,7 +4,7 @@
 
 18 лет, первый курс ФКН ВГУ, Воронеж. Программирование изучаю сам, ещё пишу музыку, стримлю и занимаюсь дизайном.
 
-**Пишу на:** Java — основной · Rust — параллельно · HTML / CSS / JS  
+**Пишу на:** Java - основной · Rust - параллельно · HTML / CSS / JS  
 **Дальше в планах:** Dart / Flutter
 
 <a href="https://markshep.ru"><img src="https://img.shields.io/badge/markshep.ru-000000?style=for-the-badge" alt="markshep.ru"></a>
